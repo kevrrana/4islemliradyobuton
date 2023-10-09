@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\bin\Debug\radyobuton4islem.exe.config
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\bin\Debug\radyobuton4islem.exe
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\bin\Debug\radyobuton4islem.pdb
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.Form1.resources
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.Properties.Resources.resources
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.csproj.GenerateResource.cache
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.exe
+C:\Users\User\source\repos\radyobuton4islem\radyobuton4islem\obj\Debug\radyobuton4islem.pdb
